@@ -1,0 +1,45 @@
+
+.font {
+    color: white;
+    font-family: verdana;
+}
+
+.image {
+    margin-left: 4%;
+    height: 0px;
+}
+
+.navigation:hover {
+    filter: blur(5px);
+}
+
+.navleft {
+    margin-left: 15%;
+}
+
+#search {
+    width: 250px;
+    height: 20px;
+    margin-left: 6%;
+}
+
+#search:hover {
+    width: 500px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.add {
+    margin-left: 90%;
+}
+
+.img {
+    float: right;
+}
+
+.efecto1:hover {
+    -webkit-transform: rotateY(180deg);
+    -webkit-transform-style: preserve-3d;
+    transform: rotateY(180deg);
+    transform-style: preserve-3d;
+}
