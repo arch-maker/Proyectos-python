@@ -1,0 +1,79 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.font1 {
+    font-family: serif;
+    font-size: 35px;
+    font-colour: grey;
+}
+
+.font2 {
+    font-family: serif;
+    font-size: 19px;
+    font-colour: grey
+}
+
+.logoGoogle {
+    max-width: 300px;
+    height: 100px;
+}
+
+.login-box {
+    height: 290px;
+    width: 290px;
+    background-color: #F7F7F7
+}
+
+.profile {
+    width: 100px;
+    height: 97px;
+    margin: 0 auto 10px;
+    display: block;
+}
+
+.button {
+    display: block;
+    width: 61%;
+    height: 30px;
+    color: white;
+    background-color: #4688F9;
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+.form {
+    max-width: 300px;
+    height: 30px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.colour-form {
+    background-color: #FAFFBA;
+}
+
+.account {
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #4688F9;
+}
+
+.help {
+    text-align: right;
+    display: block;
+    margin-top: 11px;
+    text-decoration: none;
+    color: #4688F9;
+    font-size: 13px;
+}
+
+.shadow {
+    box-shadow: 1px 3px #CFCFCF;
+}
+
+
